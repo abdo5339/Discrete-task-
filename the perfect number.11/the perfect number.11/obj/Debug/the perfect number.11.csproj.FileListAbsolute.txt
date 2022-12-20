@@ -1,0 +1,8 @@
+C:\Users\zakariamohammed\Pictures\New folder\the perfect number.11\the perfect number.11\bin\Debug\the perfect number.11.exe.config
+C:\Users\zakariamohammed\Pictures\New folder\the perfect number.11\the perfect number.11\bin\Debug\the perfect number.11.exe
+C:\Users\zakariamohammed\Pictures\New folder\the perfect number.11\the perfect number.11\bin\Debug\the perfect number.11.pdb
+C:\Users\zakariamohammed\Pictures\New folder\the perfect number.11\the perfect number.11\obj\Debug\the perfect number.11.csproj.AssemblyReference.cache
+C:\Users\zakariamohammed\Pictures\New folder\the perfect number.11\the perfect number.11\obj\Debug\the perfect number.11.csproj.SuggestedBindingRedirects.cache
+C:\Users\zakariamohammed\Pictures\New folder\the perfect number.11\the perfect number.11\obj\Debug\the perfect number.11.csproj.CoreCompileInputs.cache
+C:\Users\zakariamohammed\Pictures\New folder\the perfect number.11\the perfect number.11\obj\Debug\the perfect number.11.exe
+C:\Users\zakariamohammed\Pictures\New folder\the perfect number.11\the perfect number.11\obj\Debug\the perfect number.11.pdb
